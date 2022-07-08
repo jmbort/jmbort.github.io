@@ -22,8 +22,8 @@ author_profile: true
 
 ### Awards
 
-*Dr. Torpey Teaching Award, Whitman School of Management (2019)
-*Syracuse University Outstanding Teaching/Research Assistant (2019)
+* Dr. Torpey Teaching Award, Whitman School of Management (2019)
+* Syracuse University Outstanding Teaching/Research Assistant (2019)
 
 ### Teaching Statement
 <object data="../files/cv/jmb_teaching_statement_2022.pdf" width="750" height="750" type='application/pdf'></object>
