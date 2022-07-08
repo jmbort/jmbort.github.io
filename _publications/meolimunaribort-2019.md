@@ -3,7 +3,7 @@ title: "The patent paradox in crowdfunding: an empirical analysis of Kickstarter
 collection: publications
 permalink: /publication/meolimunaribort-2019
 excerpt: ''
-date: 2019
+date: 2019-09-01
 venue: 'Industrial and Corporate Change'
 paperurl: 'http://jmbort.github.io/files/artcl/MeoliMunariBort2019.pdf'
 citation: 'Meoli, A., Munari, F., & Bort, J. (2019). The patent paradox in crowdfunding: an empirical analysis of Kickstarter data. <i>Industrial and Corporate Change </i>, 28(5), 1321-1341.'
