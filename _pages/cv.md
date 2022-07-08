@@ -7,11 +7,4 @@ redirect_from:
   - /resume
 ---
 
-
-
-<object data="http://jmbort.github.io/files/cv/jmb_cv_june.pdf" type="application/pdf" width="750px" height="750px"></object>
-    
-	<embed src="http://jmbort.github.io/files/cv/jmb_cv_june.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://jmbort.github.io/files/cv/jmb_cv_june.pdf">Download PDF</a></p>
-    </embed>
-
+<object data="../files/cv/jmb_cv_june.pdf" width="1000" height="1000" type='application/pdf'></object>
