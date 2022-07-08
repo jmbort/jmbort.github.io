@@ -19,6 +19,6 @@ investors such as venture capitals and business angels, our results from the rew
 context point out a negative signaling role of patents. We provide explanations to reconcile such evidence
 with previous relevant literature and highlight promising avenues for future research in this area.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://jmbort.github.io/files/artcl/MeoliMunariBort2019.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Meoli, A., Munari, F., & Bort, J. (2019). The patent paradox in crowdfunding: an empirical analysis of Kickstarter data. <i>Industrial and Corporate Change </i>, 28(5), 1321-1341.
