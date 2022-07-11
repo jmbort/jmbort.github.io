@@ -15,7 +15,7 @@ I'm an assistant professor of entrepreneurship at the University of Missouri (Mi
 
 I received my PhD in Business Administration, focused on Entrepreneurship, from Whitman School of Management at Syracuse University, studying under Johan Wiklund. My dissertation work focused on the job satisfaction of start-up employees as new ventures grow and evolve. During my time at Syracuse, I taught the flagship introduction to entrepreneurship course and was recognized for my instruction methods by the Whitman School of Management (Torpey Teaching Award) and the Syracuse University Graduate School (Outstanding Teaching Assistant). I currently teach undergraduate entrepreneurship courses at Mizzou, including creating a new course focused on 5G technology, leveraging our 5G lab sponsored by ATT.  
 
-Prior to my PhD, I begin my career as software engineer in a start-up, and then went on to manage a broader team of IT professionals while I was pursuing my MBA. I have also launced a few ventures of my own, most recent an independent record label focused supporting independent music from upstate New York. My hobbies include music, film (primarily the horror genre), and reading about new religious movements / society at the fringes. 
+Prior to pursuing a PhD, I began my career as software engineer in a start-up, and then went on to manage a broader team of IT professionals while I was pursuing my MBA. I have also launced a few ventures of my own, most recent an independent record label focused supporting independent music from upstate New York. My hobbies include music, film (primarily the horror genre), and reading about new religious movements / society at the fringes. 
 
 
 Education
