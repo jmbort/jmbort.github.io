@@ -4,7 +4,7 @@ typeof: 'journal article'
 style: 'empirical'
 collection: publications
 permalink: /publication/meolimunaribort-2019
-excerpt: 'A paper about using patent language in crowdfunding.'
+excerpt: 'A paper about what happens when you use patent language in a crowdfunding campaign.'
 date: 2019-09-01
 venue: 'Industrial and Corporate Change'
 paperurl: 'http://jmbort.github.io/files/artcl/MeoliMunariBort2019.pdf'
